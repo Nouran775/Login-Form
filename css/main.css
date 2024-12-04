@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(74, 112, 131);
+}
+#name{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    border-radius: 10px;
+    border-color: white; 
+}
+#email{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    border-radius: 10px;
+    border-color: white;
+}
+#password{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    border-radius: 10px;
+    border-color: white;
+}
+#rePassword{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    border-radius: 10px;
+    border-color: white;
+}
+#loginBtn{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    border-radius: 10px;
+    border-color:grey;
+    background-color: gray;
+}
+#loginBtn:hover{
+    background-color:lightgrey;
+}
+#registerBtn{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    border-radius: 10px;
+    border-color:grey;
+    background-color: gray;
+}
+#registerBtn:hover{
+    background-color:lightgrey;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color:lightgrey;
+}
+h2,h1{
+    font-family: "Anton";
+    font-weight: 400;
+    font-size: 40px;
+
+}
